@@ -10,6 +10,7 @@ public class _01_printf {
 		 * 3. %c (character) : 문자
 		 * 4. %s (string)    : 문자열
 		 */
+		
 		System.out.printf("덧셈 결과는 %d 입니다.\n", 7 + 1234);
 		System.out.printf("%d + %d = %d\n", 3, 5, 3 + 5);
 		System.out.printf("실수는 %f 입니다.\n", 3.1234);

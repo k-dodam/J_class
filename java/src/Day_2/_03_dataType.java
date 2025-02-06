@@ -53,6 +53,7 @@ public class _03_dataType {
 		}
 		else {
 			System.out.println("저는 학생이 아닙니다.");
+		
 		}
 	}
 

@@ -11,6 +11,7 @@ public class _04_referenceDataType {
 		
 		String apple = new String("apple");
 		System.out.println(apple);
+		
 	}
 
 }

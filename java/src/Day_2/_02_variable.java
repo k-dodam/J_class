@@ -25,8 +25,6 @@ public class _02_variable {
 		
 		int myAge = studentAge;
 		System.out.println(myAge);
-		
-		
 	}
 
 }
